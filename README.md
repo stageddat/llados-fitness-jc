@@ -3,6 +3,6 @@ Simple body mass index (BMI) calculator themed by the scammer character and cont
 
 ## Screenshots
 
-| Home | Result |
-|---|---|
+| Home                                  | Result                                    |
+|---------------------------------------|-------------------------------------------|
 | ![Home](docs/screenshots/01-home.png) | ![Result](docs/screenshots/02-result.png) |
